@@ -1,0 +1,4 @@
+.vale.ini
+.PVS-Studio
+.idea
+cmake-*
