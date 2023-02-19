@@ -1,0 +1,2 @@
+# Avoid line ending conversion of italy.svg
+test_filesystem/italy.svg eol=lf
